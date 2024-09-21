@@ -57,3 +57,7 @@ You will be prompted to select the source directory and the target directory thr
    ```
 
 Enjoy using the Vehicle Meta File Scraper for your projects! 🎉
+
+---
+
+Made with ❤️
