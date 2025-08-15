@@ -31,7 +31,7 @@ async function getDirectoryInput() {
       output: process.stdout
     });
     return new Promise(resolve => {
-      rl.question(prompt, (answer) => {
+      rl.question("Enter the directory path: ", (answer) => {
         rl.close();
         resolve(answer);
       });
@@ -98,3 +98,4 @@ async function main() {
 }
 
 main();
+
